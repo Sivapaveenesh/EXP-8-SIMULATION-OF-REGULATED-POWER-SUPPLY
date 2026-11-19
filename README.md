@@ -33,7 +33,10 @@ Procedure
 ________________________________________
 Observation
 
-<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/7cc93c52-81ce-496e-a19d-da001a7956d7" />
+circuit diagram
+<img width="1920" height="531" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/5998a48b-d81f-4537-99fb-83c549bcd88a" />
+graph diagram
+<img width="1920" height="552" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/3a4ca942-a90b-4a00-aae2-dc433cf7a5a9" />
 
 
 
